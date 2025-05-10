@@ -15,7 +15,7 @@ Este projeto simula uma rede corporativa completa de um escritório fictício ut
 
 ## 🖧 Topologia da Rede
 
-![Topologia da rede](./Topologia%20da%20rede.png)
+![Topologia da rede](./Topologia-rede.png)
 
 ---
 
@@ -35,7 +35,7 @@ Este projeto simula uma rede corporativa completa de um escritório fictício ut
 ### 🔐 VLANs
 Configuração de VLANs com isolamento de tráfego por departamento.
 
-![Tabela VLAN](./tabela%20vlan.png)
+![Tabela VLAN](./tabela-vlan.png)
 
 ---
 
@@ -43,7 +43,7 @@ Configuração de VLANs com isolamento de tráfego por departamento.
 
 Servidor de e-mail com domínio `empresa.com` habilitado para SMTP e POP3.
 
-![Servidor de E-mail](./servirdor%20de%20e-mail.png)
+![Servidor de E-mail](./servirdor-e-mail.png)
 
 ---
 
@@ -51,7 +51,7 @@ Servidor de e-mail com domínio `empresa.com` habilitado para SMTP e POP3.
 
 Distribuição automática de IPs para cada VLAN com pools separados.
 
-![Servidor DHCP](./servirdor%20dhcp.png)
+![Servidor DHCP](./servirdor-dhcp.png)
 
 ---
 
@@ -59,7 +59,7 @@ Distribuição automática de IPs para cada VLAN com pools separados.
 
 Servidor web com páginas HTML e HTTPS ativado.
 
-![Servidor HTTP](./servirdor%20http.png)
+![Servidor HTTP](./servirdor-http.png)
 
 ---
 
